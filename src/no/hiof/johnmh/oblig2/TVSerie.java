@@ -17,6 +17,16 @@ public class TVSerie {
         this.utgivelsesDato = utgivelsesDato;
     }
 
+    @Override
+    public String toString() {
+        return "TVSerie{" +
+                "tittel='" + tittel + '\'' +
+                ", beskrivelse='" + beskrivelse + '\'' +
+                ", utgivelsesDato='" + utgivelsesDato + '\'' +
+                ", episoder=" + episoder +
+                '}';
+    }
+
     public String getTittel() {
         return tittel;
     }
@@ -31,5 +41,13 @@ public class TVSerie {
 
     public void setUtgivelsesDato(String utgivelsesDato) {
         this.utgivelsesDato = utgivelsesDato;
+    }
+
+    public ArrayList<Episode> getEpisoder() {
+        return episoder;
+    }
+
+    public void setEpisoder(ArrayList<Episode> episoder) {
+        this.episoder = episoder;
     }
 }
