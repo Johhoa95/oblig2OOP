@@ -4,7 +4,7 @@ public class Episode {
     private String episodeNummer;
     private String sesong;
     private String tittel;
-    private String spilleTid;
+    private int spilleTid;
 
-    
+
 }
