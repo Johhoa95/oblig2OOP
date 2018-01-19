@@ -1,6 +1,6 @@
 package no.hiof.johnmh.oblig2;
 
-public class Oppgave2 {
+public class Oppgave2og3 {
     public static void main(String[] args) {
         TVSerie show1 = new TVSerie("csi", "1995");
 
@@ -13,9 +13,6 @@ public class Oppgave2 {
 
         System.out.println(show1.getTittel() + " " + show1.getUtgivelsesDato());
 
-        
-
+        System.out.println(show1.getEpisoder().get(0).toString());
     }
-
-
 }
