@@ -22,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="episode.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/episode.java">
+      <file leaf-file-name="Episode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/Episode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="136">
+              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -55,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/Main.java" />
         <option value="$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/episode.java" />
+        <option value="$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/Episode.java" />
       </list>
     </option>
   </component>
@@ -227,10 +228,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/episode.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hiof/johnmh/oblig2/Episode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
